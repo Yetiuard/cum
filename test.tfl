@@ -1,0 +1,116 @@
+{
+"homebrew": [
+	{
+        "name": "Tinfoil",
+        "author": "blawar",
+        "description": "Title Manager",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/tinfoil/tinfoil.nro",
+        "url": "https://tinfoil.media/repo/tinfoil.json"
+    },
+	{
+        "name": "Lithium",
+        "author": "blawar",
+        "description": "Title Manager",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/lithium/lithium.nro",
+        "url": "https://tinfoil.media/repo/lithium.json"
+    },
+    {
+        "name": "Goldleaf",
+        "author": "Xortroll",
+        "description": "Title Manager",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/goldleaf/goldleaf.nro",
+        "url": "https://api.github.com/repos/XorTroll/Goldleaf/releases"
+    },
+    {
+        "name": "Incognito",
+        "author": "blawar",
+        "description": "PRODINFO Scrubber",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/incognito/incognito.nro",
+        "url": "https://api.github.com/repos/blawar/incognito/releases"
+    },
+    {
+        "name": "JKSV",
+        "author": "J-D-K",
+        "description": "Save Manager",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/JKSV/JKSV.nro",
+        "url": "https://api.github.com/repos/J-D-K/JKSV/releases"
+    },
+    {
+        "name": "Lockpick",
+        "author": "Schmue",
+        "description": "Key Dumper",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/lockpick/lockpick.nro",
+        "url": "https://api.github.com/repos/shchmue/Lockpick/releases"
+    },
+    {
+        "name": "MM-LINX",
+        "author": "blawar",
+        "description": "Super Mario Maker 2 Level Injector",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/mmlinx/mmlinx.nro",
+        "url": "https://tinfoil.media/repo/mmlinx.json"
+    },
+    {
+        "name": "NX-ntpc",
+        "author": "thedax",
+        "description": "NTP (Time) Client",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/nx-ntpc/nx-ntpc.nro",
+        "url": "https://api.github.com/repos/thedax/NX-ntpc/releases"
+    },
+    {
+        "name": "NX-Shell",
+        "author": "Joel16",
+        "description": "File Manager",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/NX-Shell/NX-Shell.nro",
+        "url": "https://api.github.com/repos/joel16/NX-Shell/releases"
+    },
+    {
+        "name": "nxdumptool",
+        "author": "DarkMatterCore",
+        "description": "NSP and XCI Dumper",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/nxdumptool/nxdumptool.nro",
+        "url": "https://api.github.com/repos/DarkMatterCore/nxdumptool/releases"
+    },
+    {
+        "name": "nxmtp",
+        "author": "deer",
+        "description": "MTP File Transfer",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/nxmtp/nxmtp.nro",
+        "url": "https://api.github.com/repos/liuervehc/nxmtp/releases"
+    },
+    {
+        "name": "NXThemes Installer",
+        "author": "exelix11",
+        "description": "Theme Installer",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/NXThemesInstaller/NXThemesInstaller.nro",
+        "url": "https://api.github.com/repos/exelix11/SwitchThemeInjector/releases"
+    },
+    {
+        "name": "pPlay",
+        "author": "Cpasjuste",
+        "description": "Video Player",
+        "category": "Tools",
+        "nroInstallPath": "sdmc:/switch/pplay/pplay.nro",
+        "url": "https://api.github.com/repos/Cpasjuste/pplay/releases"
+    },
+	{
+        "name": "Tinfoil Mod",
+        "author": "CatOverflow",
+        "description": "Annoys Blawar",
+        "category": "Memes",
+        "nroInstallPath": "sdmc:/switch/tinfoil/tinfoil.nro",
+        "url": "https://api.github.com/repos/coniventia/tinfoilmod-releases/releases"
+    }
+]
+}
