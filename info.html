@@ -1,16 +1,40 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://youtu.be/4S2zIr6csvA">
-        <script type="text/javascript">
-            window.location.href = "https://youtu.be/4S2zIr6csvA"
-        </script>
-        <title>just some info you should know about</title>
-    </head>
-    <body>
-	<center>
-		<img src="https://images.clipartof.com/small/1625532-Yellow-Emoji-Pointing-Fingers-Like-Guns.jpg" height="100%" width="auto">
-	<center>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Play MP3 on Full Screen Button Click</title>
+<style>
+    /* CSS to make the button cover the whole screen */
+    #fullscreen-button {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: transparent;
+        border: none;
+        cursor: default; /* Set cursor to default */
+        z-index: 9999; /* Ensures the button stays on top */
+    }
+</style>
+</head>
+<body>
+
+<!-- Button that covers the whole screen -->
+<button id="fullscreen-button" onclick="playAudio()">
+    <!-- You can put any content inside the button if needed -->
+</button>
+
+<audio id="audio" src="./whimpering.mp3"></audio>
+
+<script>
+    // JavaScript function to play audio
+    function playAudio() {
+        var audio = document.getElementById("audio");
+        audio.play();
+    }
+</script>
+
+</body>
 </html>
